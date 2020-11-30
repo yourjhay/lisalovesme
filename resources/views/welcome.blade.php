@@ -65,11 +65,10 @@
 
 
       <div class="social-links">
-        <a href="https://twitter.com/yourjhay" class="twitter"><i class="icofont-twitter"></i></a>
-        <a href="https://www.facebook.com/yourjhey" class="facebook"><i class="icofont-facebook"></i></a>
-        <a href="https://www.instagram.com/yourjhay/" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="https://twitter.com/BLACKPINK" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="https://www.facebook.com/blackpinkxxJenSooLisChaeng/" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/blackpinkofficial/" class="instagram"><i class="icofont-instagram"></i></a>
        
-        <a href="https://www.linkedin.com/in/rey-jhon-baquirin-810402182/" class="linkedin"><i class="icofont-linkedin"></i></a>
       </div>
 
     </div>
