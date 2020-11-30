@@ -12,10 +12,21 @@
   <meta content="Lisa manoban Blackpink Lisa lang sapat na blinks" name="keywords">
   <meta property="og:title" content="LALISA" />
   <meta property="og:type" content="website" />
-  <meta property="og:description" content="Lisa lang sapat na" />
+  <meta property="og:description" content="Lisa lang sapat na." />
   <meta property="og:url" content="https://lisaloves.me" />
   <meta property="og:image" content="https://lisaloves.me/assets/img/lisa.jpg" />
-
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="LALISA" />
+  <meta name="twitter:site" content="@yourjhay" />
+  <meta
+    name="twitter:image"
+    content="https://lisaloves.me/assets/img/lisa.jpg"
+  />
+  <meta
+    name="twitter:description"
+    content="Lisa lang sapat na."
+  />
+  <meta name="twitter:creator" content="@yourjhay" />
   <!-- Favicons -->
   <link href="/assets/img/favicon.ico" rel="icon">
   <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
