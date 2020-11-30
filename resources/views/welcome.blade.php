@@ -6,8 +6,15 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>LISA</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Lisa lang sapat na." name="description">
+  <meta content="https://lisaloves.me" name="url">
+  <meta name="image" content="https://lisaloves.me/assets/img/lisa.jpg" />
+  <meta content="Lisa manoban Blackpink Lisa lang sapat na blinks" name="keywords">
+  <meta property="og:title" content="The Rock" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="Lisa lang sapat na" />
+  <meta property="og:url" content="https://lisaloves.me" />
+  <meta property="og:image" content="https://lisaloves.me/assets/img/lisa.jpg" />
 
   <!-- Favicons -->
   <link href="/assets/img/favicon.ico" rel="icon">
