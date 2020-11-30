@@ -60,8 +60,7 @@
     <div class="container">
 
       <h1><a href="/">Lisa loves me</a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="mr-auto"><img src="/assets/img/logo.png" alt="" class="img-fluid"></a> -->
+      
       <h2>Lisa lang <span>sapat</span> na.</h2>
 
 
@@ -78,7 +77,7 @@
 
 
   <div class="credits">
-   <a href="https://simply-docs.herokuapp.com/portfolio">Rey Jhon Baquirin</a>
+   <a href="https://simply-docs.herokuapp.com/portfolio">website by @reyjhon</a>
   </div>
 
   <!-- Vendor JS Files -->
