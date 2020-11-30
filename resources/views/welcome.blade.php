@@ -6,7 +6,7 @@
 <body>
 
     <!-- ======= Header ======= -->
-    @include('layouts.header')
+@include('layouts.header')
     <!-- End Header -->
 
 
@@ -15,7 +15,7 @@
     </div>
 
     <!-- Vendor JS Files -->
-    @include('library.js')
+@include('library.js')
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
